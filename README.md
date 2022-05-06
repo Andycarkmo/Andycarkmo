@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Andycarkmo
-- 👀 I’m interested in improveing my programmer skills
-- 🌱 I’m currently learning about Salesforce and I'm in a Web Development Bootcamp
+- 👋 Hi, I’m @Andycarkmo.
+- 👀 I’m interested in improveing my programmer skills.
+- 🌱 I’m currently learning about Salesforce and I'm in a Web Development Bootcamp.
 
 
 <!---
